@@ -1,0 +1,22 @@
+{
+  "name": "DScrollViewTest",
+  "version": "0.1.0",
+  "summary": "A short description of DScrollViewTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Freddy Vega/DScrollViewTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Freddy Vega": "fmvegaz@falabella.cl"
+  },
+  "source": {
+    "git": "https://github.com/Freddy Vega/DScrollViewTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DScrollViewTest/Classes/**/*"
+}

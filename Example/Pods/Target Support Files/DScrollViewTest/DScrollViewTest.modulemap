@@ -1,0 +1,6 @@
+framework module DScrollViewTest {
+  umbrella header "DScrollViewTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
